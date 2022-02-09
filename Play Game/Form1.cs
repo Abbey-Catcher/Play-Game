@@ -40,7 +40,6 @@ namespace Play_Game
             gameStartsIn.Visible = false;
             gameStartsIn.Visible = false;
             goLabel.Visible = true;
-
         }
 
     }
